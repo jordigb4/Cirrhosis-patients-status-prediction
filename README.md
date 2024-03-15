@@ -1,1 +1,2 @@
-# Cirrhosis-patients-status-prediction
+#Multiclass Cirrhosis Patient Status Prediction
+This repository contains a solution for predicting the status of cirrhosis patients using a multiclass classification approach. Cirrhosis is a chronic liver disease characterized by the replacement of normal liver tissue with scar tissue. Early detection and accurate prediction of patient status are crucial for effective medical intervention and management.
